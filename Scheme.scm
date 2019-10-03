@@ -1,4 +1,4 @@
-Part 1) Implement a function to check if a list is a palindrome.
+Part 1 - Implement a function to check if a list is a palindrome.
 
 //Use Scheme result-list function take the element-list and find the element-list to the same element, when element 
 not equal the same element will be return false.
