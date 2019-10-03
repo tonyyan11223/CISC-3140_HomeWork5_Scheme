@@ -8,4 +8,4 @@ https://repl.it/@tonyyan11223/UnhealthyRemorsefulUserinterface
 Part 2 - Merge two sorted lists into one sorted list. You can assume both input lists are sorted in ascending order.
 
 You can test program in Repl.it:
-https://repl.it/repls/WretchedSquareRuby
+https://repl.it/@tonyyan11223/WretchedSquareRuby
