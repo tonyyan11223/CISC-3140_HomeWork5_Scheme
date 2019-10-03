@@ -13,4 +13,4 @@ to find small element to big element.
               (cons (car Right_element) (merge-sort (cdr Left_element)Right_element))))))
 
 // Use those element to compare small to big element
-(merge-sort '(3 2 5) '(7 8 6))
+(merge-sort '(3 2 5) '(6 7 8))
